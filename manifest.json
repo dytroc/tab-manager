@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "탭 매니저",
+    "description": "탭들을 그룹 단위로 관리해줍니다.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabGroups",
+        "tabs"
+    ]
+  }
